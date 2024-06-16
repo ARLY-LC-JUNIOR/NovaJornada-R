@@ -1,3 +1,3 @@
 # NovaJornada-R
-Repositório de Jornada R
+Repositório R
 Nova jornada em R | Desmistificando estatisticas. 
